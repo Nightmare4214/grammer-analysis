@@ -1,0 +1,14 @@
+﻿  LL.cpp
+e:\vsdemo\project1\project1\ll.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(108): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(258): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(291): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsdemo\project1\project1\ll.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  Project1.vcxproj -> E:\vsDemo\Project1\Debug\Project1.exe
